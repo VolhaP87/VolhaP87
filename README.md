@@ -11,6 +11,6 @@ Data Scientist with a Bachelor’s degree and a background in forensic science. 
   
 #### Important ❗❗❗
 
-  * 🎓 ![](Flatiron_School_Certificate.pdf)
-  * 📝 ![](Resume.pdf)
+  * 🎓 [Certificate of Completion](https://github.com/VolhaP87/VolhaP87/blob/main/Flatiron_School_Certificate.pdf)
+  * 📝 [Resume](https://github.com/VolhaP87/VolhaP87/blob/main/Resume.pdf)
 ***
