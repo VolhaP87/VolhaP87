@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Volha 👋
+***
 
-<!--
-**VolhaP87/VolhaP87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist with a Bachelor’s degree and a background in forensic science. Possess strong analytical and problem-solving skills. Enjoy challenging concepts. Pursue the excellence in my work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Get In Touch 📫
+***
+  * [LinkedIn](https://www.linkedin.com/in/volha-puzikava/)
+  * [helga.mikel@gmail.com](mailto:helga.mikel@gmail.com)
+  
+#### Important ❗❗❗
+***
+  * 🎓 ![](Flatiron School Certificate.pdf)
+  * 📝 ![](Resume.docx)
